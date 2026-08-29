@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **suhanghosh92@gmail.com** For Collaboration/Project or Any
 - 💬 **Ask me about:** https://www.instagram.com/suhxnwho/, Tech Support
 - 📫 **How to reach me:** suhanghosh92@gmail.com
 - 😄 **Pronouns:** Suhan Ghosh (He/Him)
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ **Fun fact:** Grinding Tech
 
 - ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SuhanGhosh05-lgtm&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
