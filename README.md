@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Suhan Ghosh
-**A passionate AI/ML Engineer || DevOps Engineer || Kafka Admin from India**
+**A passionate AI/ML Engineer || DevOps Engineer
 
 Email Me 👉 ✉️ **suhanghosh92@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
