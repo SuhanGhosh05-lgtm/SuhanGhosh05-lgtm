@@ -19,14 +19,24 @@ Email Me 👉 ✉️ **suhanghosh92@gmail.com** For Collaboration/Project or Any
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suhxnwho) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhan-ghosh-8212b8403/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suhanghosh92@gmail.com) 
 
-<!-- Snake Game Repo View -->
-
 
 ## 🐍 My GitHub Contributions
 
-![Snake animation](https://raw.githubusercontent.com/SuhanGhosh05-lgtm/SuhanGhosh05-lgtm/output/github-contribution-grid-snake.svg)
 
-![Snake animation dark](https://raw.githubusercontent.com/SuhanGhosh05-lgtm/SuhanGhosh05-lgtm/output/github-contribution-grid-snake-dark.svg)
+## 👾 Pac-Man Contribution Graph
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/SuhanGhosh05-lgtm/SuhanGhosh05-lgtm/output/pacman-contribution-graph-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/SuhanGhosh05-lgtm/SuhanGhosh05-lgtm/output/pacman-contribution-graph.svg">
+  <img
+    alt="Pac-Man Contribution Graph"
+    src="https://raw.githubusercontent.com/SuhanGhosh05-lgtm/SuhanGhosh05-lgtm/output/pacman-contribution-graph.svg">
+</picture>
+
 
 
 
